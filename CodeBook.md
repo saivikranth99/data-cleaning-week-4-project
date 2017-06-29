@@ -15,7 +15,9 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
          
          ###Identifiers##
            
-"subjectId"= The ID of the test subject
+"subjectId"= The ID of the test subject  
+
+
 "activityId"=The type of activity performed when the corresponding measurements were taken
          
          
